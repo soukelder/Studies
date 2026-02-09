@@ -1,2 +1,2 @@
 # Studies
-Study repository
+Study repository.
